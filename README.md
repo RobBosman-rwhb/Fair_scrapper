@@ -1,3 +1,3 @@
 # Fair_scrapper
 
-You are a cunch of twats
+You are a bunch of twats
