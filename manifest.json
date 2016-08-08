@@ -27,8 +27,10 @@
 
   "permissions": [
   	"activeTab",
-  	// "tabs",
+  	"tabs",
   	"http://*/",
   	"https://*/"
-  ]
+  ],
+  
+  "incognito" : "split"
  }
