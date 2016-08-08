@@ -6,7 +6,8 @@
 
   //"page_action": {...},
   "browser_action": {
-    "default_icon": "ahhh.png"
+    "default_icon": "ahhh.png",
+    "default_title": "pucker my anus"
     // "content s"
   },
 
